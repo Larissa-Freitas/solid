@@ -1,0 +1,17 @@
+{
+    "name": "larissa/app_mensageiro",
+    
+    "authors": [
+        {
+            "name": "Larissa Silva",
+            "email": "larissa.silva.freitas@hotmail.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    }
+}

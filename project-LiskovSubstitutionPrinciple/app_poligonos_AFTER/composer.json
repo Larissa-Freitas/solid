@@ -1,0 +1,15 @@
+{
+    "name": "larissa/app_poligonos",
+    "autoload": {
+        "psr-4": {
+            "Larissa\\AppPoligonos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Larissa Silva",
+            "email": "larissa.silva.freitas@hotmail.com"
+        }
+    ],
+    "require": {}
+}
